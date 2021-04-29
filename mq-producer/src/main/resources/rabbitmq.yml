@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 59.110.214.39
+    port: 5672
+    username: wuchong
+    password: 12345
+    virtual-host: /wuchong
